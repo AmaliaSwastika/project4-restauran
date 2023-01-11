@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724897469736",
+    "firebase_url": "https://jimelrestaurant-default-rtdb.firebaseio.com",
+    "project_id": "jimelrestaurant",
+    "storage_bucket": "jimelrestaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724897469736:android:7d2e595772eee0df3b2c1d",
+        "android_client_info": {
+          "package_name": "com.example.jimelrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724897469736-9qc2u4ntqqfk1ju27t3qqgp7bhnri3ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2jw4eFjwHgul59jcJUUN-CwOWdeS7Ngc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724897469736-9qc2u4ntqqfk1ju27t3qqgp7bhnri3ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

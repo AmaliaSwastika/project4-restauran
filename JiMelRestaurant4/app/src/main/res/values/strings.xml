@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JiMelRestaurant</string>
+    <string-array name="menu">
+        <item>Rama Shinta</item>
+        <item>Tri Musketeer</item>
+        <item>Qura-Qura Ninja</item>
+        <item>AceLole</item>
+        <item>Heksosial</item>
+        <item>Heptonius</item>
+    </string-array>
+</resources>
